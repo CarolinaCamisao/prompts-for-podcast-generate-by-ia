@@ -20,6 +20,6 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - Meta IA para gerar capa
 - Capcut para tratar aúdio e adicionar sons de fundo
 
-Segue link do áudio para podcast gerado: 
+Segue link do áudio para podcast gerado: https://github.com/CarolinaCamisao/prompts-for-podcast-generate-by-ia/blob/bd97b1548a5d26bd547178c65f7f1328e06867e8/Podcast%20-%20Retomada%20Cultural%20(audio).MP3 
 
 ---
