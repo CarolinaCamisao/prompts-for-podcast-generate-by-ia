@@ -40,7 +40,7 @@ Não utilizar termos técnicos
 
 Crie uma imagem que simbolize a Cultura renascendo das cinzas.
 
-Imagem capa podcast: 
+Imagem capa podcast: https://github.com/CarolinaCamisao/prompts-for-podcast-generate-by-ia/blob/main/Capa%20Podcast.jpg
 
 
 Segue link do áudio para podcast gerado: https://github.com/CarolinaCamisao/prompts-for-podcast-generate-by-ia/blob/bd97b1548a5d26bd547178c65f7f1328e06867e8/Podcast%20-%20Retomada%20Cultural%20(audio).MP3 
